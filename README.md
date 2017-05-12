@@ -1,0 +1,1 @@
+A simple image slideshow using Javascript and jQuery. Like some of my other early repos, this is me following a tutorial and not original work by me - I'm just trying to get a hang of the features and syntax and GitHub is a good place to store it.
