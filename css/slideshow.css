@@ -1,0 +1,41 @@
+.wrapper{
+	width: 600px;
+	margin: 0px auto;
+}
+
+#slider{
+	width: 600px;
+	height: 400px;
+	overflow: hidden;
+	margin: 30px auto;
+}
+
+#slider > img{
+	width: 600px;
+	height: 400px:
+	float: left;
+	display: none;
+}
+
+.nav{
+	padding: 5px 10px;
+	background-color: #F0F0F0;
+	margin-top: 30px;
+	text-decoration: none;
+	color: #666;
+}
+
+#prev{
+	float: left;
+}
+
+#next{
+	float: right;
+}
+
+p{
+	text-align: center;
+	margin-top: 120px;
+}
+
+
